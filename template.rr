@@ -1,0 +1,7 @@
+#include "restream.cc"
+int main(){
+string helloworld;
+sys::prints("Hello World\n");
+sys::println("Hello World");
+sys::input(helloworld);
+}
